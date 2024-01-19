@@ -1,0 +1,17 @@
+using System;
+namespace project1
+{
+  class admin()
+  {
+    static void Main(string[] args)
+    {
+      admin admin=new admin;
+      console.writeLine(admin.name);
+    }
+  }
+  public static class admin()
+  {
+     string name="khadija";
+     int age=18;
+  }
+}
