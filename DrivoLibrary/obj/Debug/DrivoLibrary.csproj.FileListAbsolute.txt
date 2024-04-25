@@ -1,0 +1,6 @@
+C:\projects\DrivoLibrary\DrivoLibrary\obj\Debug\DrivoLibrary.csproj.AssemblyReference.cache
+C:\projects\DrivoLibrary\DrivoLibrary\obj\Debug\DrivoLibrary.csproj.CoreCompileInputs.cache
+C:\projects\DrivoLibrary\DrivoLibrary\bin\Debug\DrivoLibrary.dll
+C:\projects\DrivoLibrary\DrivoLibrary\bin\Debug\DrivoLibrary.pdb
+C:\projects\DrivoLibrary\DrivoLibrary\obj\Debug\DrivoLibrary.dll
+C:\projects\DrivoLibrary\DrivoLibrary\obj\Debug\DrivoLibrary.pdb
